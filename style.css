@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(240, 99, 74);
+  text-align: center;
+}
+
+#title {
+  margin: 0;
+  font-size: 170px;
+  font-family: "BebasNeueRegular";
+  opacity: 0.7;
+}
+
+.counterBlock {
+  border: 4px solid white;
+  margin: 0% 30%;
+  padding-bottom: 1%;
+}
+
+#number {
+  font-size: 150px;
+  margin: 5px 0px;
+  color: white;
+  font-family: BebasNeueRegular;
+}
+
+#minus {
+  border: 3px solid white;
+  font-size: 50px;
+  height: 55px;
+  width: 55px;
+  border-radius: 50%;
+  color: white;
+  background-color: rgba(32, 178, 171, 0);
+}
+
+#plus {
+  border: 3px solid white;
+  font-size: 50px;
+  height: 55px;
+  width: 55px;
+  border-radius: 50%;
+  color: white;
+  background-color: rgba(32, 178, 171, 0);
+}
